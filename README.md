@@ -1,6 +1,6 @@
 # movie-app
 
--The app is deployed: http://dgy.herokuapp.com/
+The app is deployed: http://dgy.herokuapp.com/
 
 - Replace the folders "views" and "public" in your projects with the folders in this zip file.
 
