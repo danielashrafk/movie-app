@@ -10,7 +10,7 @@ The app is deployed: http://dgy.herokuapp.com/
 
 - You will have to get the videos yourself, rename them according to the names in the movies .ejs files, and put them in the "public" folder.
 
-This is a mockup for a movie app that shows different movies with trailers in differemt genres.
+This is a mockup for a movie app that shows different movies with different trailers in different genres.
 
 ![Screenshot](https://github.com/danielashrafk/movie-app/blob/main/public/movie%20-%201.png)
 
