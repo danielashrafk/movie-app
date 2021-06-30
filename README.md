@@ -1,4 +1,4 @@
-# movie-app
+# Movie App
 
 The app is deployed: http://dgy.herokuapp.com/
 
