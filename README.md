@@ -1,5 +1,5 @@
 # Movies App
-#The app is deployed: http://dgy.herokuapp.com/
+# The app is deployed: http://dgy.herokuapp.com/
 
 This is a mockup for a movies app that shows different movies with different trailers in different genres.
 
